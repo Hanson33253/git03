@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cffd5719-f910-4353-a94b-35f42f87b99c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asdf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git02/src/main/resources/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git02/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../git02/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../git02" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\BaiduNetdiskDownload\JavaWeb-资料\day14-综合案例\代码\git-test\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\fourthStudy\maven_idea\maven\repository" />
+        <option name="mavenHome" value="E:/fourthStudy/apache-maven-3.5.0-bin/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="E:\fourthStudy\maven_idea\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2J7J4rKTn5cdizs3IDMRH6Zgw1v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git02/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\BaiduNetdiskDownload\JavaWeb-资料\day14-综合案例\代码\git02\src\main\resources" />
+      <recent name="E:\BaiduNetdiskDownload\JavaWeb-资料\day14-综合案例\代码\git02" />
+      <recent name="E:\BaiduNetdiskDownload\JavaWeb-资料\day14-综合案例\代码\git-test\.idea" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cffd5719-f910-4353-a94b-35f42f87b99c" name="Default Changelist" comment="" />
+      <created>1671422999222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671422999222</updated>
+      <workItem from="1671423016175" duration="4498000" />
+      <workItem from="1671452757395" duration="2846000" />
+    </task>
+    <task id="LOCAL-00001" summary="sd">
+      <created>1671455340654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671455340654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sd" />
+    <option name="LAST_COMMIT_MESSAGE" value="sd" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Notifications" timestamp="1671451542936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Notifications/0.0.1536.824/1920.-1075.1280.680@0.0.1536.824" timestamp="1671451542936" />
+    <state x="311" y="10" key="CommitChangelistDialog2" timestamp="1671455389212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="311" y="10" key="CommitChangelistDialog2/0.0.1536.824/1920.-1075.1280.680@0.0.1536.824" timestamp="1671455389212" />
+    <state x="435" y="164" key="FileChooserDialogImpl" timestamp="1671454350613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="435" y="164" key="FileChooserDialogImpl/0.0.1536.824/1920.-1075.1280.680@0.0.1536.824" timestamp="1671454350613" />
+    <state x="46" y="38" key="SettingsEditor" timestamp="1671455644614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="46" y="38" key="SettingsEditor/0.0.1536.824/1920.-1075.1280.680@0.0.1536.824" timestamp="1671455644614" />
+    <state x="404" y="233" key="com.intellij.ide.util.TipDialog" timestamp="1671453701898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="404" y="233" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.-1075.1280.680@0.0.1536.824" timestamp="1671453701898" />
+    <state x="178" y="116" key="new project wizard" timestamp="1671454198098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="116" key="new project wizard/0.0.1536.824/1920.-1075.1280.680@0.0.1536.824" timestamp="1671454198098" />
+  </component>
+</project>
