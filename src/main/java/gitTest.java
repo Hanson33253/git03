@@ -6,6 +6,6 @@ public class gitTest {
         System.out.println(33);
         System.out.println(4);
         
-        sysout
+        System.put.println(5);
     }
 }
